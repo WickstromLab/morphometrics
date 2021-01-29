@@ -1,2 +1,2 @@
 # morphometrics
-codes for shape and morphometric analysis
+scripts for shape and morphometric analysis
